@@ -1,4 +1,4 @@
-# 🔐 Simple Password Manager (Modern Edition)
+# Simple Password Manager
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -9,7 +9,7 @@ Modernized with a sleek UI and added convenience features while keeping it simpl
 
 ---
 
-## ✨ Features
+## Features
 
 * ✅ **Generate secure random passwords** (letters, numbers, symbols)
 * ✅ **Copy passwords directly** to your clipboard
@@ -26,7 +26,7 @@ Modernized with a sleek UI and added convenience features while keeping it simpl
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 Here you can add your own screenshots of the app.
 Example placeholders:
@@ -64,7 +64,7 @@ python main_with_JSON.py
 
 ---
 
-## 📂 Data Storage
+## Data Storage
 
 All credentials are stored in a local `data.json` file in the same directory as the app.
 
@@ -73,7 +73,7 @@ All credentials are stored in a local `data.json` file in the same directory as 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * **Python**
 * **Tkinter / ttkbootstrap** (modern GUI)
@@ -82,7 +82,7 @@ All credentials are stored in a local `data.json` file in the same directory as 
 
 ---
 
-## 💡 What’s New in This Version
+## What’s New in This Version
 
 * Modernized **UI** with themed colors, padding, and clean buttons
 * **Popup search results** instead of just messagebox
@@ -94,7 +94,7 @@ All credentials are stored in a local `data.json` file in the same directory as 
 
 ---
 
-## 💡 Why I Built This
+## Why I Built This
 
 I didn’t want to rely on paid apps or cloud-based managers.
 This project is a small, personal tool:
@@ -105,8 +105,12 @@ This project is a small, personal tool:
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This project was built for **personal learning and usage**.
 It is **not intended for production use** or as a replacement for professional password managers.
+
+## License
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
