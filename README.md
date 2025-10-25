@@ -11,18 +11,18 @@ Modernized with a sleek UI and added convenience features while keeping it simpl
 
 ## Features
 
-* ✅ **Generate secure random passwords** (letters, numbers, symbols)
-* ✅ **Copy passwords directly** to your clipboard
-* ✅ **Save website credentials** (email + password) locally in `data.json`
-* ✅ **Search for saved accounts** with a popup window
+*  **Generate secure random passwords** (letters, numbers, symbols)
+*  **Copy passwords directly** to your clipboard
+*  **Save website credentials** (email + password) locally in `data.json`
+*  **Search for saved accounts** with a popup window
 
   * Popup shows **Email** and **Password**
   * Includes a **Copy Password** button for convenience
-* ✅ **Modern UI** using `ttkbootstrap`
+*  **Modern UI** using `ttkbootstrap`
 
   * Clean color-coded buttons (Search, Generate, Add)
   * Centered logo, with automatic fallback if missing
-* ✅ Simple, offline, no accounts, no subscriptions
+*  Simple, offline, no accounts, no subscriptions
 
 ---
 
@@ -37,7 +37,7 @@ Example placeholders:
 
 ---
 
-## 🎬 Demo Video
+## Demo Video
 
 
 ![Demo](videos/video.gif)
@@ -45,7 +45,7 @@ Example placeholders:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
